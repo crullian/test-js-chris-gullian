@@ -10,4 +10,6 @@
 
 ### What you need to do
 
-Check out `src/state/actions.js` and add code to fulfill the commented instructions.
+1. Fork this repository to your GitHub account.
+2. Check out `src/state/actions.js` and add code to fulfill the commented instructions.
+3. Submit an upstream pull request with your work.
